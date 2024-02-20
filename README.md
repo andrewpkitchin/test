@@ -1,3 +1,3 @@
-<h1>Contents here</h1>
+<h1>Content will go here</h1>
 
 <p>Introduction</p>
